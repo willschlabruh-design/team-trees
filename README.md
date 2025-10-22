@@ -1,3 +1,3 @@
-﻿# put all files in a foalder exept this one and open the file called index
- create a username and password with the sign up button and log in after that, in this way we can all save the trees.
+﻿# download the zip file for the newest verion, the extract and open index.html
+
 
